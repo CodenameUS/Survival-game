@@ -4,3 +4,7 @@
 
 # Unity Version
 - Unity 2021.3.15f1
+
+## 📄 개인정보처리방침
+
+[개인정보처리방침 보기](./PRIVACY_POLICY.md)
